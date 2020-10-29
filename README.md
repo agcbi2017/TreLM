@@ -1,5 +1,5 @@
 # Introduction
-This repository contains the code for TreLM: a general cross-lingual transfer learning framework for pre-trained language models, which is introduced in the ICLR-20 submission.
+This repository contains the code for TreLM: a general cross-lingual transfer learning framework for pre-trained language models, which is introduced in the ICLR-21 submission.
 
 # Requirements and Installation
 
